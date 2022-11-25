@@ -3,8 +3,8 @@
   "description": "Interactive hexagon grids with React bindings",
   "version": "2.0.1",
   "main": "src/index.ts",
-  "author": "Hellenic",
-  "repository": "Hellenic/react-hexgrid",
+  "author": "Jkker",
+  "repository": "Jkker/react-hexgrid",
   "license": "MIT",
   "scripts": {
     "tsc": "tsc",
